@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="title_plans">مدیریت برنامه‌ها</string>
+    <string name="title_topics">مدیریت درس‌ها</string>
+    <string name="title_calender">تقویم مطالعاتی</string>
+    <string name="error_blank_field">این فیلد نمی‌تواند خالی باشد</string>
+    <string name="error_blank_topic_name">نام درس نمی‌تواند خالی باشد</string>
+    <string name="error_blank_limitation_name">نام محدودیت نمی‌تواند خالی باشد</string>
+    <string name="error_blank_plan_name">نام برنامه نمی‌تواند خالی باشد</string>
+    <string name="error_blank_start_date">تاریخ شروع نمی‌تواند خالی باشد</string>
+    <string name="error_blank_end_date">تاریخ پایان نمی‌تواند خالی باشد</string>
+    <string name="error_blank_start_time">زمان شروع نمی‌تواند خالی باشد</string>
+    <string name="error_blank_end_time">زمان پایان نمی‌تواند خالی باشد</string>
+    <string name="error_nonpositive_duration">زمان پایان باید بعد از زمان شروع باشد</string>
+    <string name="error_study_time_interval">حداکثر زمان مطالعه نباید کمتر از حداقل زمان مطالعه باشد</string>
+
+</resources>

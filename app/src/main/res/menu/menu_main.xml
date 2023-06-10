@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/expand_all_action"
+        android:title="Expand All" />
+
+    <item
+        android:id="@+id/collapse_all_action"
+        android:title="Collapse All" />
+
+    <item
+        android:id="@+id/expand_selected_action"
+        android:title="Expand Selected" />
+
+    <item
+        android:id="@+id/collapse_selected_action"
+        android:title="Collapse Selected" />
+
+    <item
+        android:id="@+id/expand_selected_branch_action"
+        android:title="Expand Selected Branch" />
+
+    <item
+        android:id="@+id/collapse_selected_branch_action"
+        android:title="Collapse Selected Branch" />
+
+    <item
+        android:id="@+id/expand_selected_level_action"
+        android:title="Expand Nodes to level 2" />
+</menu>
